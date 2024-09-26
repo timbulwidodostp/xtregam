@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'xtregam': Amemiya Random-Effects Panel Data: Ridge and Weighted Regression Use xtregam With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtregam.ado
+f xtregam.dlg
+f xtregam.sthlp
