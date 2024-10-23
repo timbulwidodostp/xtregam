@@ -1,6 +1,8 @@
 # xtregam
 Amemiya Random-Effects Panel Data: Ridge and Weighted Regression Use xtregam With STATA 18
 
+https://www.youtube.com/watch?v=DeUnTC9AORc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
